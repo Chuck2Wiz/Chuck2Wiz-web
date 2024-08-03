@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Cheok2Wiz/static/css/main.f855e6bc.css",
-    "main.js": "/Cheok2Wiz/static/js/main.a15a4349.js",
+    "main.js": "/Cheok2Wiz/static/js/main.dd7b8ccc.js",
     "static/js/453.552c1309.chunk.js": "/Cheok2Wiz/static/js/453.552c1309.chunk.js",
     "static/media/main1.png": "/Cheok2Wiz/static/media/main1.03769e0869c6f05f4f21.png",
     "static/media/main2.png": "/Cheok2Wiz/static/media/main2.1137d18d84a6159f41c8.png",
     "static/media/main3.png": "/Cheok2Wiz/static/media/main3.2d09d06eeafdaa987ff0.png",
     "index.html": "/Cheok2Wiz/index.html",
     "main.f855e6bc.css.map": "/Cheok2Wiz/static/css/main.f855e6bc.css.map",
-    "main.a15a4349.js.map": "/Cheok2Wiz/static/js/main.a15a4349.js.map",
+    "main.dd7b8ccc.js.map": "/Cheok2Wiz/static/js/main.dd7b8ccc.js.map",
     "453.552c1309.chunk.js.map": "/Cheok2Wiz/static/js/453.552c1309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.a15a4349.js"
+    "static/js/main.dd7b8ccc.js"
   ]
 }
