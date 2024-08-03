@@ -1,5 +1,4 @@
 import {motion} from "framer-motion";
-import Spacer from "../Spacer";
 import main1 from "../../assets/main1.png";
 
 const SmallFirstBlock = () => {
@@ -17,7 +16,7 @@ const SmallFirstBlock = () => {
                 style={{
                     display: 'flex',
                     padding: '3rem 0rem',
-                    fontSize: '1.5rem',
+                    fontSize: '1.35rem',
                     alignItems: 'center',
                     flexDirection: 'column'
                 }}

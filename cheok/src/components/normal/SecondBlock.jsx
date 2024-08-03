@@ -60,7 +60,7 @@ const SecondBlock = () => {
                 <span style={{
                     display: 'block',
                     color: '#626262',
-                    fontSize: '1.5rem',
+                    fontSize: '1.25rem',
                 }}>
                 여러분의 상황에 맞춘 법률 상담을 제공합니다.
             </span>

@@ -1,8 +1,4 @@
 import './App.css';
-import appLogo from '../src/assets/logo.png'
-import FirstBlock from "./components/normal/FirstBlock";
-import SecondBlock from "./components/normal/SecondBlock";
-import ThirdBlock from "./components/normal/ThirdBlock";
 import {useEffect, useState} from "react";
 import NormalPage from "./components/normal/NormalPage";
 import SmallPage from "./components/small/SmallPage";

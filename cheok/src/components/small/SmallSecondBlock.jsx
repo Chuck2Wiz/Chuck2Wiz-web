@@ -43,7 +43,7 @@ const SmallSecondBlock = () => {
                     fontSize: '0.75rem',
                     marginBottom: '0.5rem' // 문단 간격 조절
                 }}>
-                    대법원 판례문을 학습한 AI가 여러분의 상황에 맞춘 법률 상담을 제공합니다.
+                    대법원 판례문을 학습한 AI 가여러분의 상황에 맞춘 법률 상담을 제공합니다.
                 </span>
                 <Spacer height={12}/>
             </motion.div>
