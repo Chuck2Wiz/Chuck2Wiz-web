@@ -1,5 +1,5 @@
-import Spacer from "./Spacer";
-import main1 from "./assets/main1.png";
+import Spacer from "../Spacer";
+import main1 from "../../assets/main1.png";
 import {motion} from "framer-motion";
 
 const FirstBlock = () => {

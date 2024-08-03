@@ -1,6 +1,6 @@
-import main2 from "./assets/main2.png";
+import main2 from "../../assets/main2.png";
 import {motion} from "framer-motion";
-import Spacer from "./Spacer";
+import Spacer from "../Spacer";
 
 const SecondBlock = () => {
     return (

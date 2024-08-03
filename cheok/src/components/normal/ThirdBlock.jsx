@@ -1,6 +1,6 @@
 import {motion} from "framer-motion";
-import main3 from "./assets/main3.png";
-import Spacer from "./Spacer";
+import main3 from "../../assets/main3.png";
+import Spacer from "../Spacer";
 
 const  ThirdBlock = () => {
     return (
