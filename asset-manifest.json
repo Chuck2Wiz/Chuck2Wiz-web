@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/cheok2wiz/static/css/main.f855e6bc.css",
-    "main.js": "/cheok2wiz/static/js/main.10afeca0.js",
-    "static/js/453.552c1309.chunk.js": "/cheok2wiz/static/js/453.552c1309.chunk.js",
-    "static/media/main1.png": "/cheok2wiz/static/media/main1.03769e0869c6f05f4f21.png",
-    "static/media/main2.png": "/cheok2wiz/static/media/main2.1137d18d84a6159f41c8.png",
-    "static/media/main3.png": "/cheok2wiz/static/media/main3.2d09d06eeafdaa987ff0.png",
-    "index.html": "/cheok2wiz/index.html",
-    "main.f855e6bc.css.map": "/cheok2wiz/static/css/main.f855e6bc.css.map",
-    "main.10afeca0.js.map": "/cheok2wiz/static/js/main.10afeca0.js.map",
-    "453.552c1309.chunk.js.map": "/cheok2wiz/static/js/453.552c1309.chunk.js.map"
+    "main.css": "/Cheok2Wiz/static/css/main.f855e6bc.css",
+    "main.js": "/Cheok2Wiz/static/js/main.60c173d0.js",
+    "static/js/453.552c1309.chunk.js": "/Cheok2Wiz/static/js/453.552c1309.chunk.js",
+    "static/media/main1.png": "/Cheok2Wiz/static/media/main1.03769e0869c6f05f4f21.png",
+    "static/media/main2.png": "/Cheok2Wiz/static/media/main2.1137d18d84a6159f41c8.png",
+    "static/media/main3.png": "/Cheok2Wiz/static/media/main3.2d09d06eeafdaa987ff0.png",
+    "index.html": "/Cheok2Wiz/index.html",
+    "main.f855e6bc.css.map": "/Cheok2Wiz/static/css/main.f855e6bc.css.map",
+    "main.60c173d0.js.map": "/Cheok2Wiz/static/js/main.60c173d0.js.map",
+    "453.552c1309.chunk.js.map": "/Cheok2Wiz/static/js/453.552c1309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.10afeca0.js"
+    "static/js/main.60c173d0.js"
   ]
 }
