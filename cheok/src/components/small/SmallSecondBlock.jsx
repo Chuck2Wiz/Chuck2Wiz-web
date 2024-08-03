@@ -7,7 +7,6 @@ const SmallSecondBlock = () => {
         <div style={{
             display: 'flex',
             height: 'auto',
-            width: '100%',
             flexDirection: 'column',
             fontSize: '2rem',
             justifyContent: 'center',
@@ -26,14 +25,14 @@ const SmallSecondBlock = () => {
                     y: 0,
                     transition: {delay: 0.1},
                 }}>
-                <span style={{fontSize: '2rem', fontWeight: 'bold', color: '#5D71BF'}}>
+                <span style={{fontSize: '1.5rem', fontWeight: 'bold', color: '#5D71BF'}}>
                     대법원 주요판례문 기반 AI 학습모델<br/>
                 </span>
                 <Spacer height={24}/>
                 <span style={{
                     display: 'block',
                     color: '#626262',
-                    fontSize: '1rem',
+                    fontSize: '0.75rem',
                     marginBottom: '0.5rem' // 문단 간격 조절
                 }}>
                     법률적 지식이 없어도 걱정 마세요.
@@ -41,7 +40,7 @@ const SmallSecondBlock = () => {
                 <span style={{
                     display: 'block',
                     color: '#626262',
-                    fontSize: '1rem',
+                    fontSize: '0.75rem',
                     marginBottom: '0.5rem' // 문단 간격 조절
                 }}>
                     대법원 판례문을 학습한 AI가 여러분의 상황에 맞춘 법률 상담을 제공합니다.
@@ -57,7 +56,7 @@ const SmallSecondBlock = () => {
                 }}>
                 <img
                     style={{
-                        height: '600px',
+                        height: '350px',
                     }}
                     src={main2}
                     alt="main1"

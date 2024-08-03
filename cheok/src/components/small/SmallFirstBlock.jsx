@@ -7,7 +7,6 @@ const SmallFirstBlock = () => {
         <div style={{
             display: 'flex',
             height: 'auto',
-            width: '100%',
             flexDirection: 'column',
             fontSize: '2rem',
             justifyContent: 'center',
@@ -18,6 +17,7 @@ const SmallFirstBlock = () => {
                 style={{
                     display: 'flex',
                     padding: '3rem 0rem',
+                    fontSize: '1.5rem',
                     alignItems: 'center',
                     flexDirection: 'column'
                 }}
@@ -43,7 +43,7 @@ const SmallFirstBlock = () => {
                 }}>
                 <img
                     style={{
-                        height: '600px',
+                        height: '350px',
                     }}
                     src={main1}
                     alt="main1"

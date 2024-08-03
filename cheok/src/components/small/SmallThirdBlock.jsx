@@ -8,7 +8,6 @@ const SmallThirdBlock = () => {
         <div style={{
             display: 'flex',
             height: 'auto',
-            width: '100%',
             flexDirection: 'column',
             fontSize: '2rem',
             justifyContent: 'center',
@@ -28,14 +27,14 @@ const SmallThirdBlock = () => {
                     y: 0,
                     transition: {delay: 0.1},
                 }}>
-                <span style={{fontSize: '2rem', fontWeight: 'bold', color: '#5D71BF'}}>
+                <span style={{fontSize: '1.5rem', fontWeight: 'bold', color: '#5D71BF'}}>
                     척척법사가 제공하는 유용한 정보<br/>
                 </span>
                 <Spacer height={24}/>
                 <span style={{
                     display: 'block',
                     color: '#626262',
-                    fontSize: '1rem',
+                    fontSize: '0.75rem',
                     marginBottom: '0.5rem' // 문단 간격 조절
                 }}>
                     각 법률 분야마다 척척법사가 제공하는
@@ -43,7 +42,7 @@ const SmallThirdBlock = () => {
                 <span style={{
                     display: 'block',
                     color: '#626262',
-                    fontSize: '1rem',
+                    fontSize: '0.75rem',
                     marginBottom: '0.5rem' // 문단 간격 조절
                 }}>
                     질문 형식에 맞춰 최대한 도움이되는 내용을 전달해요.
@@ -59,7 +58,7 @@ const SmallThirdBlock = () => {
                 }}>
                 <img
                     style={{
-                        height: '600px',
+                        height: '350px',
                     }}
                     src={main3}
                     alt="main1"

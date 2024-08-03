@@ -19,15 +19,15 @@ const SmallButton = () => {
                 style={{
                     display: 'flex',
                     cursor: 'pointer',
-                    borderRadius: '8px',
-                    fontSize: '1.5rem',
+                    borderRadius: '4px',
+                    fontSize: '1rem',
                     fontWeight: 'bold',
-                    width: '40%',
+                    width: '80%',
                     color: 'white',
                     boxShadow: '8px 8px 8px rgba(0, 0, 0, 0.1)',
                     backgroundColor: '#5D71BF',
                     justifyContent: 'center',
-                    padding: '6px 0px'
+                    padding: '8px 0px'
                 }}
             >
                 사전신청하러 가기

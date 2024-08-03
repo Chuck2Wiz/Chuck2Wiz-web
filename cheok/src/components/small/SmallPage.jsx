@@ -6,7 +6,10 @@ import SmallThirdBlock from "./SmallThirdBlock";
 const SmallPage = () => {
     return (
         <div>
-            <div style={{display: 'flex', justifyContent: 'center'}}>
+            <div style={{
+                display: 'flex',
+                justifyContent: 'center'
+            }}>
                 <img
                     style={{
                         width: '100px',
