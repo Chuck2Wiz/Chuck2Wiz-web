@@ -22,7 +22,7 @@ const SecondBlock = () => {
                 }}>
                 <img
                     style={{
-                        height: '600px',
+                        height: '500px',
                     }}
                     src={main2}
                     alt="main1"
@@ -36,7 +36,7 @@ const SecondBlock = () => {
                     y: 0,
                     transition: { delay: 0.2 },
                 }}>
-                <span style={{fontSize: '4rem', fontWeight: 'bold', color: '#5D71BF'}}>
+                <span style={{fontSize: '3rem', fontWeight: 'bold', color: '#5D71BF'}}>
                     대법원 주요판례문 기반 <br/>
                     AI 학습모델 <br/>
                 </span>
@@ -44,7 +44,7 @@ const SecondBlock = () => {
                 <span style={{
                     display: 'block',
                     color: '#626262',
-                    fontSize: '1.5rem',
+                    fontSize: '1.25rem',
                     marginBottom: '0.5rem' // 문단 간격 조절
                 }}>
                 법률적 지식이 없어도 걱정 마세요.
@@ -52,7 +52,7 @@ const SecondBlock = () => {
                 <span style={{
                     display: 'block',
                     color: '#626262',
-                    fontSize: '1.5rem',
+                    fontSize: '1.25rem',
                     marginBottom: '0.5rem' // 문단 간격 조절
                 }}>
                 대법원 판례문을 학습한 AI가

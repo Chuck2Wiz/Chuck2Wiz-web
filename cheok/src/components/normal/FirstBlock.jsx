@@ -13,7 +13,7 @@ const FirstBlock = () => {
             height: '750px',
             width: '100%',
             flexDirection: 'row',
-            fontSize: '3rem',
+            fontSize: '2.5rem',
             justifyContent: 'center',
             alignItems: 'center',
             backgroundColor: '#F4F6FF'
@@ -76,7 +76,7 @@ const FirstBlock = () => {
                 }}>
                 <img
                     style={{
-                        height: '600px',
+                        height: '400px'
                     }}
                     src={main1}
                     alt="main1"
